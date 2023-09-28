@@ -13,7 +13,7 @@ This repository is a collection of resources for learning Python, ranging from b
 <!-- English content goes here ... -->
 ## 1. Python Basics
 
-- **Python Crash Course** by Eric Matthes
+- **[Python Crash Course](https://oceanofpdf.com/authors/eric-matthes/pdf-epub-python-crash-course-3rd-edition-download/?id=001351838806)** by Eric Matthes
   - Recommendation: This is a comprehensive tutorial that not only covers the basic concepts of Python but also includes several practical projects, such as games, data visualization, and web applications. It helps readers translate knowledge into practical skills.
 - **Automate the Boring Stuff with Python** by Al Sweigart
   - Recommendation: This book teaches you how to automate daily mundane tasks, such as file operations and web browsing, with Python, making programming more practical and interesting.
@@ -104,7 +104,7 @@ I hope these resources help you integrate better into the Python community and e
 
 ## 1. Python 基础
 
-- **《Python 编程：从入门到实践》** by Eric Matthes
+- **[《Python 编程：从入门到实践》](https://oceanofpdf.com/authors/eric-matthes/pdf-epub-python-crash-course-3rd-edition-download/?id=001351838806)** by Eric Matthes
   - 推荐原因：这是一个综合性的教程，不仅涵盖了 Python 的基础概念，还包括了几个实际项目，如游戏、数据可视化和 Web 应用，帮助读者将知识转化为实际技能。
 - **《Python编程快速上手：让繁琐工作自动化》** by Al Sweigart
   - 推荐原因：这本书教你如何使用 Python 来自动化日常的枯燥任务，如文件操作、Web 浏览等，使编程变得更实用、有趣。

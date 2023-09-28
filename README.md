@@ -102,11 +102,11 @@ I hope these resources help you integrate better into the Python community and e
 
 ## 1. Python 基础
 
-- **Python Crash Course** by Eric Matthes
+- **《Python 编程：从入门到实践》** by Eric Matthes
   - 推荐原因：这是一个综合性的教程，不仅涵盖了 Python 的基础概念，还包括了几个实际项目，如游戏、数据可视化和 Web 应用，帮助读者将知识转化为实际技能。
-- **Automate the Boring Stuff with Python** by Al Sweigart
+- **《Python编程快速上手：让繁琐工作自动化》** by Al Sweigart
   - 推荐原因：这本书教你如何使用 Python 来自动化日常的枯燥任务，如文件操作、Web 浏览等，使编程变得更实用、有趣。
-- **Learn Python the Hard Way** by Zed Shaw
+- **《Python 硬道理》** by Zed Shaw
   - 推荐原因：Zed Shaw 的教学方法是通过大量的实践和重复来教授 Python，确保学生真正理解并掌握每一个概念。
 
 ## 2. 面向对象编程 (OOP)
@@ -134,16 +134,16 @@ I hope these resources help you integrate better into the Python community and e
 
 ## 5. 数据科学与机器学习
 
-- **Python for Data Analysis** by Wes McKinney
+- **《利用Python进行数据分析》** by Wes McKinney
   - 推荐原因：这本书是数据处理和分析的绝佳入门书籍，特别是使用 pandas 库。它详细介绍了如何处理、清洗和可视化数据。
-- **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** by Aurélien Géron
+- **《用Python和TensorFlow实现机器学习》** by Aurélien Géron
   - 推荐原因：这本书提供了从基础到高级的机器学习知识，包括神经网络和深度学习，每一章都有实际的项目实践。
-- **Deep Learning with Python** by François Chollet
+- **《Python深度学习》** by François Chollet
   - 推荐原因：由 Keras 的创始人编写，这本书深入介绍了深度学习的概念，并提供了大量的实践项目。
 
 ## 6. 自然语言处理 (NLP)
 
-- **Natural Language Processing in Python** by DataCamp (online course material)
+- **《用Python进行自然语言处理》** by DataCamp (online course material)
   - 推荐原因：这是一个在线课程，涵盖了使用 Python 进行 NLP 的基础知识，如文本处理和情感分析。
 - **Natural Language Processing with Python** by Steven Bird, Ewan Klein, and Edward Loper
   - 推荐原因：这本书是结合 NLTK 库的 NLP 经典教材，涵盖了从文本处理到复杂的 NLP 任务的所有内容。

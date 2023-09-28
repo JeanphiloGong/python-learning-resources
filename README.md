@@ -189,6 +189,9 @@ I hope these resources help you integrate better into the Python community and e
 
 ---
 
+![GitLab stars](https://img.shields.io/gitlab/stars/https%3A%2F%2Fgithub.com%2FJeanphiloGong%2Fpython-learning-resources)
+
+
 
 
 

@@ -1,5 +1,5 @@
 # Python Learning Resources
-![image](https://github.com/JeanphiloGong/python-learning-resources/assets/123850343/9c2e8212-1da4-449e-b684-3e6838eaa6b5)
+![image](https://raspberry-valley.azurewebsites.net/img/Python-01.jpg)
 
 
 🌐 **Language:** [English](#english) | [中文](#中文)

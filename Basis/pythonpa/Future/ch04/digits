@@ -1,0 +1,4 @@
+#coding=utf-8
+digits=[]
+for value in range(1,10)
+  

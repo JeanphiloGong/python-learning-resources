@@ -1,0 +1,7 @@
+In Python you can simple handling of varaiables and simple data types
+In Python you can understand what a list is and use it to summaize simple data
+In Python you can understand simple logical statements
+In Python you can learn what a dictionary is and use it to process some data related to objects
+In Python you can enserstand the basic konwledge of a program and user interaction
+In Python you can understand the basic component functions of the program
+In Python you can understand how the program is user oriented
